@@ -1,0 +1,42 @@
+Information before first hashtag will not be parsed.
+
+File Last Updated 12thJan2024
+
+Template is as follows:
+<Hashtag>Number
+Number) Title
+ShortDesc
+
+Serves:
+CalPerServe:
+
+Ingredients:
+
+Steps:
+
+Notes:
+
+
+
+#0
+0) Spaghetti Mince
+Versatile spaghetti recipe serves ~4
+
+Serves:
+CalPerServe:
+
+Ingredients:
+Condensed tomato soup
+500g mince
+pasta
+
+Steps:
+Boil Mince in frypan. Boil pasta in pot, drain mince, add soup to frypan
+add pasta to frypan.
+
+
+Notes:
+
+family favourite
+
+

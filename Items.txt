@@ -1,0 +1,17 @@
+
+
+#Liquorice
+LastUpdated: 20240111
+270g
+400cal/100g
+1080cal/pack
+LastPrice: 2.89
+LastPriced: 20240101
+
+
+#WheatBiscuits
+250g
+400cal/100g
+100cal/pack
+
+
